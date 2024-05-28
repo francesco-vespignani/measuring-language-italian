@@ -4,7 +4,7 @@ Titolo: Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggi
 
 Orario 11.20-13.00
 
-Speakers: Giulia Calignano, Davide Crepaldi, Ottavia Epifania,  Massimo Grassi, Maria Montefinese, Francesco Vespignani (others ?)
+Speakers: Giulia Calignano, Cristinao Chesi, Davide Crepaldi, Ottavia Epifania,  Massimo Grassi, Maria Montefinese, Francesco Vespignani (others ?)
 
 Possibili topic:
 
