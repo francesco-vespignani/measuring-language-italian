@@ -2,7 +2,8 @@
 
 Working-workshop - 25 Giugno 2024 
 Padova
-[locandina](Prospettive25062024.png]
+
+[locandina](Prospettive25062024.png)
 
 --------
 
