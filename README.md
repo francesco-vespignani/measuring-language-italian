@@ -3,7 +3,7 @@
 Working-workshop - 25 Giugno 2024 
 Padova
 
-[locandina](Prospettive25062024.png)
+[locandina](https://github.com/francesco-vespignani/measuring-language-italian/blob/b6631d340dc0be76c8fd15a5cca9de9ae06ec7e8/Prospettive25062024.png)
 
 --------
 
