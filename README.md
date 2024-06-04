@@ -11,6 +11,8 @@ Padova
 
 Programma
 
-9 - 11 [ ](strumenti.md)
+9.00 - 11.00 [La prospettiva dei nuovi strumenti](strumenti.md)
 
 11.20 -13.00 [Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggio](paradigmi-tecnologie-risorse.md)
+
+15.00 - 16.30 [Implicazioni nell'ambito del testing e della pratica professionale in psicologia](tavola.md)
