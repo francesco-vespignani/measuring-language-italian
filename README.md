@@ -11,6 +11,6 @@ Padova
 
 Programma
 
-9 - 11 [Evento 2](paradigmi-tecnologie-risorse.md)
+9 - 11 [ ](strumenti.md)
 
-[Evento 2](paradigmi-tecnologie-risorse.md)
+11.20 -13.00 [Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggio](paradigmi-tecnologie-risorse.md)
