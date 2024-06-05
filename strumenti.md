@@ -16,7 +16,7 @@ abstract here
 
 abstract here
 
-### 9.20-9.40 To be Announced 
+### 9.40-10.00 To be Announced 
 **Mattia Oliviero**<sup>(1)</sup>, Debora Musola <sup>(2)</sup>
 
 (1) Iprase
@@ -24,7 +24,7 @@ abstract here
 
 abstract here
 
-### 9.20-9.40 To be Announced 
+### 10.00-10.20 To be Announced 
 **Cristiano Chesi**<sup>1)</sup>, Debora Musola <sup>(2)</sup>
 
 (1) IUSS
@@ -32,7 +32,7 @@ abstract here
 
 abstract here
 
-### 9.20-9.40 To be Announced 
+### 10.20-10.40 To be Announced 
 **Chiara Pompei**<sup>(1)</sup>
 
 (1) IUSS
