@@ -1,11 +1,10 @@
 ##   La prospettiva dei nuovi strumenti
 (oratore in boldface)
 
-### 9.00-9.20 Title
+### 9.00-9.20 To be announced
 **Sendy Caffarra**<sup>(1)</sup>,  
 
-()  affiliations 
-
+(1) UNIMORE
 abstract here 
 
 
@@ -13,7 +12,30 @@ abstract here
 **Debora Musola**<sup>(1)</sup>, Francesco Vespignani <sup>(2)</sup>
 
 (1) Logogenia
-(2) DPSS, UNiversità degli studi di Padova
+(2) DPSS
+
+abstract here
+
+### 9.20-9.40 To be Announced 
+**Mattia Oliviero**<sup>(1)</sup>, Debora Musola <sup>(2)</sup>
+
+(1) Iprase
+(2) Logogenia
+
+abstract here
+
+### 9.20-9.40 To be Announced 
+**Cristiano Chesi**<sup>1)</sup>, Debora Musola <sup>(2)</sup>
+
+(1) IUSS
+(2) Logogenia
+
+abstract here
+
+### 9.20-9.40 To be Announced 
+**Chiara Pompei**<sup>(1)</sup>
+
+(1) IUSS
 
 abstract here
 
