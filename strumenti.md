@@ -1,5 +1,5 @@
 ##   La prospettiva dei nuovi strumenti
-(oratore in boldface)
+Modera Francesco Vespignani
 
 ### 9.00-9.20 To be announced
 **Sendy Caffarra**<sup>(1)</sup>,  
@@ -38,5 +38,7 @@ abstract here
 (1) IUSS
 
 abstract here
+
+### 10.40-11.00 Discussione Generale
 
 
