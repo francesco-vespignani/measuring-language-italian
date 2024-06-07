@@ -1,7 +1,7 @@
 ##   La prospettiva dei nuovi strumenti
 Modera Francesco Vespignani
 
-### 9.00-9.20 To be announced
+### 9.00-9.20 Rapid Online Assessment of Reading: adattamento italiano
 
 **Sendy Caffarra**<sup>(1)</sup>, Emily Arteaga Garcia<sup>(2)</sup>, Elisa Bassoli<sup>(1)</sup>, 
 Emanuele Casani<sup>(1,3)</sup>, Wanjing Anya Ma<sup>(2)</sup>, Nicole Mastrangelo<sup>(4)</sup>,
