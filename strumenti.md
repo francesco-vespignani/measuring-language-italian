@@ -2,11 +2,37 @@
 Modera Francesco Vespignani
 
 ### 9.00-9.20 To be announced
-**Sendy Caffarra**<sup>(1)</sup>,  
 
-(1) UNIMORE
-abstract here 
+**Sendy Caffarra**<sup>(1)</sup>, Emily Arteaga Garcia<sup>(2)</sup>, Elisa Bassoli<sup>(1)</sup>, 
+Emanuele Casani<sup>(1,3)</sup>, Wanjing Anya Ma<sup>(2)</sup>, Nicole Mastrangelo<sup>(4)</sup>,
+Marilina Mastrogiuseppe<sup>(4)</sup>, Kyle Montville<sup>(2)</sup>, Giuditta Smith<sup>(1)</sup>,
+Jason D. Yeatman<sup>(3)</sup>
 
+(1) Dipartimento di Scienze Biomediche, Metaboliche e Neuroscienze, Università di
+Modena and Reggio Emilia, Italia
+(2) Dipartimento di Educazione, Università di Stanford, USA
+(3) Dipartimento di Traduzione e Scienze del Linguaggio, Università Pompeu Fabra,
+Spagna
+(4) Consiglio Nazionale delle Ricerche, Istituto per la Ricerca e l’Innovazione
+Biomedica, Italia
+
+
+In questa presentazione verra’ descritto l’adattamento italiano della piattaforma
+ROAR (Rapid Online Assessment of Reading, [https://roar.stanford.edu](https://roar.stanford.edu)), una batteria
+online per lo screening delle abilita’ di lettura in bambini e adulti. La versione
+inglese di questo strumento ha mostrato proprietà psicometriche comparabili a
+quelle di batterie standardizzate, raggiungendo alti livelli di affidabilità e validità
+(Gijbels et al., 2023; Ma et al., 2023; Yeatman et al., 2021). Sono attualmente in fase di
+validazione adattamenti dello strumento ROAR ad altre lingue, con lo scopo di
+testare le proprietà della piattaforma in un’ampia gamma di sistemi ortografici
+(includendo l’italiano, lo spagnolo, il catalano, il tedesco e il portoghese).
+Presenteremo i primi dati raccolti con l’adattamento italiano della piattaforma
+ROAR, che ci permetteranno di esaminare in via preliminare la generalizzabilita’
+dello strumento a un’ortografia piu’ trasparente rispetto a quella dell’inglese.
+Questo strumento di screening multilingue ha i vantaggi di essere facilmente
+accessibile (richiede solo un navigatore web), rapido (5-10 minuti per ogni sub-test),
+automatizzato (non richiede la presenza di personale specializzato) e riproducibile (è
+una piattaforma open-source facilmente adattabile a nuove lingue).
 
 ### 9.20-9.40 AppParole: stimolazione lessicale e grammaticale per coppie minime 
 **Debora Musola**<sup>(1)</sup>, Francesco Vespignani <sup>(2)</sup>
