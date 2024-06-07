@@ -2,7 +2,6 @@
 Modera Francesco Vespignani
 
 ### 9.00-9.20 Rapid Online Assessment of Reading: adattamento italiano
-[pdf](docs/Caffarra_25062024.pdf)
 
 **Sendy Caffarra**<sup>(1)</sup>, Emily Arteaga Garcia<sup>(2)</sup>, Elisa Bassoli<sup>(1)</sup>, 
 Emanuele Casani<sup>(1,3)</sup>, Wanjing Anya Ma<sup>(2)</sup>, Nicole Mastrangelo<sup>(4)</sup>,
@@ -34,6 +33,8 @@ Questo strumento di screening multilingue ha i vantaggi di essere facilmente
 accessibile (richiede solo un navigatore web), rapido (5-10 minuti per ogni sub-test),
 automatizzato (non richiede la presenza di personale specializzato) e riproducibile (è
 una piattaforma open-source facilmente adattabile a nuove lingue).
+
+[Scarica in pdf](docs/Caffarra_25062024.pdf)
 
 ### 9.20-9.40 AppParole: stimolazione lessicale e grammaticale per coppie minime 
 **Debora Musola**<sup>(1)</sup>, Francesco Vespignani <sup>(2)</sup>
