@@ -2,7 +2,7 @@
 Modera Francesco Vespignani
 
 ### 9.00-9.20 Rapid Online Assessment of Reading: adattamento italiano
-[pdf](/[repo]/docs/Caffarra_25062025.pdf)
+[pdf](docs/Caffarra_25062025.pdf)
 
 **Sendy Caffarra**<sup>(1)</sup>, Emily Arteaga Garcia<sup>(2)</sup>, Elisa Bassoli<sup>(1)</sup>, 
 Emanuele Casani<sup>(1,3)</sup>, Wanjing Anya Ma<sup>(2)</sup>, Nicole Mastrangelo<sup>(4)</sup>,
