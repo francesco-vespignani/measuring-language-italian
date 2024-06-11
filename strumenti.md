@@ -75,7 +75,7 @@ Il test COnVERSA misura la percezione di grammaticalità di espressioni linguist
 Vedremo come i dati di norming suggeriscano che le competenza linguistica può risultare selettivamente compromessa in determinate popolazioni, come quella dei sordi.
 
 
-### 10.20-10.40 To be Announced 
+### 10.20-10.40 Valutare e promuovere le abilità metaforiche in età scolare: tra linguaggio e cognizione sociale
 **Chiara Pompei**<sup>(1)</sup>
 
 (1) Università di Pavia, IUSS
