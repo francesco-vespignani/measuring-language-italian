@@ -7,6 +7,6 @@ Partecipanti: Cristinao Chesi, Davide Crepaldi, Ottavia Epifania,  Massimo Grass
 Maria Montefinese, DPSS, Università degli Studi di Padova
 
 ### Large-scale databases of eye movements during reading: the Multilingual Eye Movement Corpus
-Davide Crepaldi, DSSNC, Università degli Studi di Pavia
+Davide Crepaldi, DSSNC, Università degli Studi di Pavia; SISSA Trieste
 
 
