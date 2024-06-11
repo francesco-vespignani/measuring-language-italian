@@ -1,9 +1,12 @@
-Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggio
+## Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggio 11.20-13.00
+Modera Giulia Calignano
 
-Orario 11.20-13.00
+Partecipanti: Giulia Calignano, Cristinao Chesi, Davide Crepaldi, Ottavia Epifania,  Massimo Grassi, Maria Montefinese, Francesco Vespignani
 
-Speakers: Giulia Calignano, Cristinao Chesi, Davide Crepaldi, Ottavia Epifania,  Massimo Grassi, Maria Montefinese, Francesco Vespignani (others ?)
+### Il significato in azione: lo studio della semantica dalla teoria alla pratica
+Maria Montefinese, DPSS, Università degli Studi di Padova
 
-**Il significato in azione: lo studio della semantica dalla teoria alla pratica**
-Maria Montefinese
+### Large-scale databases of eye movements during reading: the Multilingual Eye Movement Corpus
+Davide Crepaldi, DSSNC, Università degli Studi di Pavia
+
 
