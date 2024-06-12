@@ -1,11 +1,10 @@
+![image, heigth="80"](sitoGiornata2506.png){: style="float: left"}
 # Prospettive interdisciplinari nella misura di competenze e capacità linguistiche in età scolare
 
 Working-workshop - 25 Giugno 2024 - 
 Padova
 
 [locandina](Prospettive25062024.png)
-
-[qrcode di questo sito](sitoGiornata2506.png)
 
 --------
 
