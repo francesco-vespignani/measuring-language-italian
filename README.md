@@ -21,6 +21,6 @@ Organizzazioe scientifica: Francesco Vespignani, Giulia Calignano
 
 Il workshop è partocinato dal Dipartimento di Psicologia dello Sviluppo e della Socializzazione dell'Università degli Stdui di Padova, finanziato all'interno del progetto SID-2022 *``Skilled Readers''* (PI Francesco Vespignani) con la collaborazione di [Psicostat](https://psicostat.dpss.psy.unipd.it/).
 
-[<img src="logo/logodpss.png" height="80">](https://www.dpss.unipd.it/)
 [<img src="logo/logounipd.png" height="80">](https://www.unipd.it/)
+[<img align="right" src="logo/logodpss.png" height="80">](https://www.dpss.unipd.it/)
 [<img align="right" src="logo/psicostat.png" height="80">](https://www.unipd.it/)
