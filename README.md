@@ -24,5 +24,3 @@ Il workshop è partocinato dal Dipartimento di Psicologia dello Sviluppo e della
 [<img src="logo/logodpss.png" height="80">](https://www.dpss.unipd.it/)
 [<img src="logo/logounipd.png" height="80">](https://www.unipd.it/)
 [<img src="logo/psicostat.png" height="80">](https://www.unipd.it/)
-
-[image, heigth="80"](sitoGiornata2506.png)
