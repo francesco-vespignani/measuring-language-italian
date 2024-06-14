@@ -1,7 +1,7 @@
 ## Paradigmi, Risorse e Tecnologie Open Science per la Misura del Linguaggio 11.20-13.00
 Modera Giulia Calignano
 
-Partecipanti: Cristinao Chesi, Davide Crepaldi, Ottavia Epifania,  Massimo Grassi, Maria Montefinese, Francesco Vespignani
+Partecipanti: Cristinao Chesi, Davide Crepaldi, Ottavia Epifania, Massimo Grassi, Maria Montefinese, Francesco Vespignani
 
 ### Il significato in azione: lo studio della semantica dalla teoria alla pratica
 Maria Montefinese, DPSS, Università degli Studi di Padova
@@ -13,6 +13,9 @@ Davide Crepaldi, DSSNC, Università degli Studi di Pavia; SISSA Trieste
 Francesco Vespignani,  Giulia Calignano, DPSS, , Università degli Studi di Padova
 
 ### Perchè non creare test e questionari open?
-Massimo Grassi, DPG, , Università degli Studi di Padova
+Massimo Grassi, DPG, Università degli Studi di Padova
+
+### L'open alla base di tutto: Come generare stimoli di tipo Raven in modo riproducibile e aperto a tutt3
+Ottavia Epifania, FISPPA, Università degli Studi di Padova
 
 
