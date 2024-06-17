@@ -7,7 +7,7 @@ Maria Montefinese, DPSS, Università degli Studi di Padova
 ### Large-scale databases of eye movements during reading: the Multilingual Eye Movement Corpus
 Davide Crepaldi, DSSNC, Università degli Studi di Pavia; SISSA Trieste
 
-### Dati aperti, pivacy e aspetti etici, quali soluzioni?
+### Dati aperti, privacy e aspetti etici, quali soluzioni?
 Francesco Vespignani,  Giulia Calignano, DPSS, , Università degli Studi di Padova
 
 ### Perchè non creare test e questionari open?
