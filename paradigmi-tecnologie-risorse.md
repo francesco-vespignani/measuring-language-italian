@@ -13,7 +13,7 @@ Francesco Vespignani,  Giulia Calignano, DPSS, , Università degli Studi di Pado
 ### Perchè non creare test e questionari open?
 Massimo Grassi, DPG, Università degli Studi di Padova
 
-### L'open alla base di tutto: Come generare stimoli di tipo Raven in modo riproducibile e aperto a tutt3
+### Perché non generare test e questionari open… dal principio? Risorse open per generare matrici di tipo Raven
 Ottavia Epifania, FISPPA, Università degli Studi di Padova
 
 
