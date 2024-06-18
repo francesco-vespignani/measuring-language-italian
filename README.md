@@ -3,7 +3,7 @@
 
 Working-workshop - 25 Giugno 2024 - Padova
 
-[locandina](Prospettive25062024.png)
+[locandina](25giugno_OpenScience.pdf)
 
 --------
 
