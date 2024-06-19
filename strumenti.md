@@ -76,11 +76,24 @@ Vedremo come i dati di norming suggeriscano che le competenza linguistica può r
 
 
 ### 10.20-10.40 Valutare e promuovere le abilità metaforiche in età scolare: tra linguaggio e cognizione sociale
-**Chiara Pompei**<sup>(1)</sup>
+**Chiara Pompei** <sup>(1)</sup>, Serena Lecce <sup>(2)</sup>, Valentina Bambini <sup>(1)</sup>
 
-(1) Università di Pavia, IUSS
+(1) Neurolinguistics and Experimental Pragmatics Lab (NEP), IUSS Pavia
+(2) Department of Brain and Behavioral Sciences, University of Pavia
 
-abstract here
+In questo intervento verrà presentata la famiglia degli strumenti PMM (Physical and Mental
+Metaphors). La famiglia dei test PMM indaga la competenza pragmatica in modalità sia
+ricettiva sia espressiva, valutando le abilità di comprensione e produzione di metafore in
+bambini dai 4 agli 11 anni. Il punto di forza dei test PMM consiste nell’includere metafore
+caratterizzate da significati figurati legati sia alla sfera fisico-percettiva (es. “Le ballerine
+sono farfalle”) che a quella mentale-psicologica (es. “La nonna è una colonna”). Questa
+caratteristica permette di valutare in modo più accurato il contributo delle abilità di Teoria
+della Mente nel derivare i significati metaforici. Saranno presentati i risultati degli studi che
+hanno utilizzato questi strumenti in gruppi neurotipici tra la prima e la media infanzia,
+tenendo in considerazione il ruolo dei substrati cognitivi delle competenze metaforiche
+nelle diverse fasi dello sviluppo. Alla luce del profilo delle abilità metaforiche fornito dalla
+famiglia dei test PMM, sono inoltre stati sviluppati interventi di training volti a migliorare le
+competenze metaforiche nei bambini.
 
 ### 10.40-11.00 Discussione Generale
 
