@@ -1,7 +1,9 @@
 
 # Prospettive interdisciplinari nella misura di competenze e capacità linguistiche in età scolare
 
-Working-workshop - 25 Giugno 2024 - Padova
+Working-workshop - 25 Giugno 2024 
+Aula 2B,  Edificio Psico2,
+Via Venezia 12, Padova
 
 [locandina](25giugno_OpenScience.pdf)
 
