@@ -7,6 +7,8 @@ Maria Montefinese, DPSS, Università degli Studi di Padova
 ### Large-scale databases of eye movements during reading: the Multilingual Eye Movement Corpus
 Davide Crepaldi, DSSNC, Università degli Studi di Pavia; SISSA Trieste
 
+In this talk, I'll tell you guys about my experience researching the connection between statistical learning and reading. I'll present *MECO*, the Multilingual Eye Movement COrpus, which was critical in my approach to this issue. *MECO* contains eye movement data from little less than 600 people, speaking 13 different languages. The corpus contains both L1 and L2 data, from the same group of participants. In particular, I'll illustrate how such a resource allows an important shift in the field. People would typically investigate the relationship between statistical learning and reading measuring the two skills independently, and then seeking for a correlation. This approach is teeming with dangers, from the imprecision of the tests to construct validity (e.g., statistical learning is a very complex phenomenon, to which many other cognitive functions contribute). With *MECO* --and a similar resource in Italian with children data, which I put together with my student Valentina Pescuma and Maria Ktori--, one can instead look directly into the target behaviour (reading) and look for signs of statistical learning in there, ''natively'' (e.g., sensitivity to the frequency of letter nGrams). I'll tell you what I learned along the way -- both joys and moments of discomfort.
+
 ### Dati aperti, privacy e aspetti etici, quali soluzioni?
 Francesco Vespignani,  Giulia Calignano, DPSS, , Università degli Studi di Padova
 
