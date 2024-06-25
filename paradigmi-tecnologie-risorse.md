@@ -11,6 +11,7 @@ In this talk, I'll tell you guys about my experience researching the connection 
 
 ### Dati aperti, privacy e aspetti etici, quali soluzioni?
 Francesco Vespignani,  Giulia Calignano, DPSS, , Università degli Studi di Padova
+
 [slides](docs/vespignani.pdf)
 
 ### Perchè non creare test e questionari open?
